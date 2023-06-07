@@ -14,6 +14,6 @@ While executed 300 concurrent request, found  18 request got connection timeout 
 <b><h3>Report</h3></b>
 * To view report: *(https://fatematabassum1604009.github.io/performance-testing-project/all%20html%20files/booking_ThreadCount_300.html/index.html)*
 ---
-<b>Report for Thread Count 300:</b><br>
+<b>Report Screenshot for Thread Count 300:</b><br>
 
 ![report image](https://github.com/fatematabassum1604009/performance-testing-project/assets/34239300/123c89e0-ad5b-4462-b3b3-f03372d605fb)
