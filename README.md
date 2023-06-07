@@ -10,7 +10,7 @@ Test executed for the below mentioned scenario in server https://restful-booker.
 While executed 300 concurrent request, found  18 request got connection timeout and error rate is 0.36%. <br><br>
 
 <b>Summary:</b> Server can handle almost concurrent 350 API call with almost zero to one (0-1) % error rate.<br><br>
----
+
 <b><h3>Report</h3></b>
 * To view report: *(https://fatematabassum1604009.github.io/performance-testing-project/all%20html%20files/booking_ThreadCount_300.html/index.html)*
 ---
